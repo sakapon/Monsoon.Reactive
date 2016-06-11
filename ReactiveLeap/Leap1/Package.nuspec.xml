@@ -13,8 +13,13 @@
     <releaseNotes>$releaseNotes$</releaseNotes>
     <copyright>$copyright$</copyright>
     <tags>$tags$</tags>
+    <dependencies>
+      <dependency id="Monsoon.Setup.Leap1" version="1.1.5" />
+      <dependency id="ReactiveProperty" version="2.7.1" />
+    </dependencies>
   </metadata>
   <files>
-    <file src="bin\Release\*.*" target="lib\net45" />
+    <file src="bin\Release\$id$.dll" target="lib\net45" />
+    <file src="bin\Release\$id$.xml" target="lib\net45" />
   </files>
 </package>
