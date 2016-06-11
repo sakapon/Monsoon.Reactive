@@ -29,6 +29,7 @@
     <ErrorReport>prompt</ErrorReport>
     <WarningLevel>4</WarningLevel>
     <UseVSHostingProcess>false</UseVSHostingProcess>
+    <DocumentationFile>bin\Release\Monsoon.Reactive.Leap1.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="LeapCSharp.NET4.0, Version=0.0.0.0, Culture=neutral, PublicKeyToken=6e1b1368e71eba9b, processorArchitecture=MSIL">
